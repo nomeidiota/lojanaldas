@@ -18,7 +18,7 @@
     <meta http-equiv="content-language" content="pt-br">
 
 
-    <title>Início</title>
+    <title>Início teste </title>
 
     <?php include ("partials/head.php"); ?>
 
