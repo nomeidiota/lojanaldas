@@ -5,6 +5,9 @@
 ?>
     <?php include_once ("conexao.php") ?>
 
+
+   <link rel="shortcut icon" href="../img/favicon.ico" type="image/x-icon">
+
 <!-- ::::: HEADER INCLUDE-->
     <div class="header">
          <div class="topbar">

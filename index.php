@@ -16,9 +16,9 @@
     <meta name="author" content="Julia Cristina, Andresa Rios, Sarah Paiva, Wesley Garcia, Pamela Santos">
     <meta name="keywords" content="roupas, roupa para caes, roupa para animal, animais domesticos">
     <meta http-equiv="content-language" content="pt-br">
+    <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
 
-
-    <title>Início teste </title>
+    <title>Início </title>
 
     <?php include ("partials/head.php"); ?>
 
